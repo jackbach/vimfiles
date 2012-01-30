@@ -4,7 +4,7 @@ syntax enable
 
 set encoding=utf-8
 
-"call pathogen#infect() " Pathogen
+call pathogen#infect() " Pathogen
 
 set showcmd " incomplete commands
 filetype plugin indent on
@@ -41,5 +41,6 @@ nnoremap <leader><leader> <c-^>
 set backupdir=~/.vim/_backup " This keeps clean the working dirs
 set directory=~/.vim/_temp
 
-"let g:Powerline_symbols = 'fancy' " Uses fancy font for powerline
+set laststatus=2
+let g:Powerline_symbols = 'fancy' " Uses fancy font for powerline
 
