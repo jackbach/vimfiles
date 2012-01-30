@@ -43,4 +43,3 @@ set directory=~/.vim/_temp
 
 set laststatus=2
 let g:Powerline_symbols = 'fancy' " Uses fancy font for powerline
-
