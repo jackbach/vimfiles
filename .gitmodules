@@ -7,3 +7,6 @@
 [submodule "bundle/fugitive"]
 	path = bundle/fugitive
 	url = https://github.com/tpope/vim-fugitive.git
+[submodule "bundle/jshint"]
+	path = bundle/jshint
+	url = https://github.com/manalang/jshint.vim.git
