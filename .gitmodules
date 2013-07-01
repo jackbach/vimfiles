@@ -9,7 +9,7 @@
 	url = https://github.com/tpope/vim-fugitive.git
 [submodule "bundle/jshint"]
 	path = bundle/jshint
-	url = https://github.com/manalang/jshint.vim.git
+	url = https://github.com/rmanalan/jshint.vim.git
 [submodule "bundle/coffee-script"]
 	path = bundle/coffee-script
 	url = https://github.com/kchmck/vim-coffee-script.git
